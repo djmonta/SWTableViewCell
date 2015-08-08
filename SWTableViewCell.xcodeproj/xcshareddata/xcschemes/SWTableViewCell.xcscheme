@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0630"
+   LastUpgradeVersion = "0640"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,8 +14,8 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "AF34B76417DEE2B100BD9082"
-               BuildableName = "SWTableViewCell.app"
+               BlueprintIdentifier = "703AF6651B75F0DE00F048E7"
+               BuildableName = "SWTableViewCell.framework"
                BlueprintName = "SWTableViewCell"
                ReferencedContainer = "container:SWTableViewCell.xcodeproj">
             </BuildableReference>
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "76D732621AE2F50100909802"
+               BlueprintIdentifier = "703AF66F1B75F0DE00F048E7"
                BuildableName = "SWTableViewCellTests.xctest"
                BlueprintName = "SWTableViewCellTests"
                ReferencedContainer = "container:SWTableViewCell.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "76D732621AE2F50100909802"
+               BlueprintIdentifier = "703AF66F1B75F0DE00F048E7"
                BuildableName = "SWTableViewCellTests.xctest"
                BlueprintName = "SWTableViewCellTests"
                ReferencedContainer = "container:SWTableViewCell.xcodeproj">
@@ -56,8 +56,8 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AF34B76417DEE2B100BD9082"
-            BuildableName = "SWTableViewCell.app"
+            BlueprintIdentifier = "703AF6651B75F0DE00F048E7"
+            BuildableName = "SWTableViewCell.framework"
             BlueprintName = "SWTableViewCell"
             ReferencedContainer = "container:SWTableViewCell.xcodeproj">
          </BuildableReference>
@@ -68,20 +68,19 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AF34B76417DEE2B100BD9082"
-            BuildableName = "SWTableViewCell.app"
+            BlueprintIdentifier = "703AF6651B75F0DE00F048E7"
+            BuildableName = "SWTableViewCell.framework"
             BlueprintName = "SWTableViewCell"
             ReferencedContainer = "container:SWTableViewCell.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -91,16 +90,15 @@
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Release"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "AF34B76417DEE2B100BD9082"
-            BuildableName = "SWTableViewCell.app"
+            BlueprintIdentifier = "703AF6651B75F0DE00F048E7"
+            BuildableName = "SWTableViewCell.framework"
             BlueprintName = "SWTableViewCell"
             ReferencedContainer = "container:SWTableViewCell.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

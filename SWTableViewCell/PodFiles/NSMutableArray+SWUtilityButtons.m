@@ -7,6 +7,7 @@
 //
 
 #import "NSMutableArray+SWUtilityButtons.h"
+#import <UIKit/UIKit.h>
 
 @implementation NSMutableArray (SWUtilityButtons)
 
